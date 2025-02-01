@@ -25,4 +25,4 @@ What's Included
 I tried to make things as simple as possible by bundling both json-framework and KissXML with this demo app. I also configured the project such that it uses Joe's three20 repository as a git submodule within the project directory. This way there will be fewer version compatibility problems as three20 HEAD advances (especially since Joe likes to do heavy refactoring on the master branch :-)
 
 Enjoy,
--keith
+-wwizcau
